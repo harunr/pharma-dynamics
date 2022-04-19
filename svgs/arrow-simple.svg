@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-simple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-189.000000, -602.000000)">
+            <g id="HeroImageArea" transform="translate(0.000000, 109.000000)">
+                <g id="arrow-simple" transform="translate(210.500000, 514.500000) rotate(-270.000000) translate(-210.500000, -514.500000) translate(190.000000, 494.000000)">
+                    <g id="Group-2">
+                        <path d="M22.7244445,13.2406287 C22.4209721,12.9197904 21.9158923,12.9197904 21.601809,13.2406287 C21.2983366,13.5506278 21.2983366,14.0665703 21.601809,14.3758468 L27.2942149,20.1906783 L11.7859156,20.1906783 C11.3480382,20.1914009 11,20.5469244 11,20.9942191 C11,21.4415139 11.3480382,21.808599 11.7859156,21.808599 L27.2942149,21.808599 L21.601809,27.6125915 C21.2983366,27.9334297 21.2983366,28.4500948 21.601809,28.7593713 C21.9158923,29.0802096 22.4216796,29.0802096 22.7244445,28.7593713 L29.7644375,21.5679704 C30.0785208,21.2579713 30.0785208,20.7420287 29.7644375,20.4327522 L22.7244445,13.2406287 Z" id="Shape" fill="#0C225F" fill-rule="nonzero"></path>
+                        <circle id="Oval" stroke="#0C225F" stroke-width="1.5" cx="20.5" cy="20.5" r="20.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1272px" height="868px" viewBox="0 0 1272 868" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>shape-about</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="What-we-do" transform="translate(-328.000000, -109.000000)" fill="#216BCC">
+            <g id="Hero-Area" transform="translate(0.000000, 109.000000)">
+                <path d="M328,0 L1600,0 C1303.94104,43.1848478 1048.38222,138.154215 833.323528,284.908102 C618.264836,431.661989 449.82366,626.025955 328,868 L328,0 Z" id="shape-about" transform="translate(964.000000, 434.000000) scale(-1, 1) translate(-964.000000, -434.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

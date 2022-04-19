@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="42px" viewBox="0 0 86 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>tablet-type1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="34" height="78" rx="17"></rect>
+        <filter x="-20.6%" y="-6.4%" width="141.2%" height="117.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.287675498 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Products" transform="translate(-490.000000, -1120.000000)">
+            <g transform="translate(0.000000, 803.000000)" id="tablet-type1">
+                <g transform="translate(531.000000, 338.000000) rotate(-90.000000) translate(-531.000000, -338.000000) translate(514.000000, 299.000000)">
+                    <g id="Rectangle-7">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M7,39 L28,39" id="Line-2-Copy-2" stroke="#D5D5D5" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

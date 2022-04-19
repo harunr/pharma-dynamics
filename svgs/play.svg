@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Single-Article" transform="translate(-244.000000, -958.000000)" fill-rule="nonzero">
+            <g id="Article" transform="translate(185.000000, 258.000000)">
+                <g id="Video" transform="translate(3.000000, 370.000000)">
+                    <g id="play" transform="translate(28.000000, 302.000000)">
+                        <path d="M66.000939,0 C29.607933,0 0,29.607933 0,66.000939 C0,102.392067 29.607933,132 66.000939,132 C102.392067,132 132,102.392067 132,66.000939 C132,29.607933 102.392067,0 66.000939,0 Z" id="play-right-arrow-control-circular-button" opacity="0.22192029"></path>
+                        <path d="M67.0006781,106 C45.4942877,106 28,88.5057123 28,67.0006781 C28,45.4997131 45.4942877,28 67.0006781,28 C88.5057123,28 106,45.4997131 106,67.0006781 C106,88.5057123 88.5057123,106 67.0006781,106 Z" id="Path" fill="#9FB8FF" opacity="0.664458786"></path>
+                        <polygon id="Path" fill="#FFFFFF" points="59 80 79 66.5007042 59 53"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
